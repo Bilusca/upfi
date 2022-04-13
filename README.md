@@ -1,5 +1,5 @@
 
-# WatchMe
+# UPFI
 
 Project created with Next and FaunaDB to upload images.
 
