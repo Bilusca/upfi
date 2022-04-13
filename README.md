@@ -30,7 +30,7 @@ Running app
 
 ## Stack
 
-**Front-end:** NextJS, FaunaDB, ChakraUI
+**Front-end:** NextJS, FaunaDB, ChakraUI, React Query
 
 ## 🚀 About me
 I'm a fullstack developer, living in Brazil. Working with programming since 2014 and passionate about Reactjs
